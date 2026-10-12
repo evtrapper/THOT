@@ -10,7 +10,6 @@ Connect your AI account, describe your goal, and let multiple agents work togeth
 
 - **Windows x64 Build:** [THOT-Windows-x64-Signed.zip](https://github.com/evtrapper/THOT/releases/download/v0.19.0-alpha.62/THOT-Windows-x64-Signed.zip)
 - **Linux x64 Tarball:** [THOT-Linux-x64.tar.gz](https://github.com/evtrapper/THOT/releases/download/v0.19.0-alpha.62/THOT-Linux-x64.tar.gz)
-- **Linux Debian Package:** [THOT-Linux-x64.deb](https://github.com/evtrapper/THOT/releases/download/v0.19.0-alpha.62/THOT-Linux-x64.deb)
 - **Root Certificate:** [MORFMOD_Root.cer](https://github.com/evtrapper/THOT/releases/download/v0.19.0-alpha.62/MORFMOD_Root.cer)
 - **Checksum Verification:** [SHA256SUMS.txt](https://github.com/evtrapper/THOT/releases/download/v0.19.0-alpha.62/SHA256SUMS.txt)
 
